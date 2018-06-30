@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2fe3b1c303441482eaa60919b04f4e56
+timeCreated: 1529958913
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Minstrel Poster Two NF
+  fontNames:
+  - Minstrel Poster Two NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

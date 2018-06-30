@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recycletron-unity", "Assembly-CSharp.csproj", "{227BF4D2-A555-E132-273B-F3D56DC2EA6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recycletron-unity", "Assembly-CSharp-Editor.csproj", "{8EBEE0BD-4A53-1064-17B3-6BC6E69786FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{227BF4D2-A555-E132-273B-F3D56DC2EA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227BF4D2-A555-E132-273B-F3D56DC2EA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227BF4D2-A555-E132-273B-F3D56DC2EA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227BF4D2-A555-E132-273B-F3D56DC2EA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBEE0BD-4A53-1064-17B3-6BC6E69786FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBEE0BD-4A53-1064-17B3-6BC6E69786FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBEE0BD-4A53-1064-17B3-6BC6E69786FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBEE0BD-4A53-1064-17B3-6BC6E69786FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
