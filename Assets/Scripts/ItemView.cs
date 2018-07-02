@@ -29,14 +29,14 @@ public class ItemView : MonoBehaviour
 
 		sprite = GetComponentInChildren<SpriteRenderer>();
 
-		GameStateManager.instance.onScoreChanged.AddListener(HandleScoreChanged);
+		//GameStateManager.instance.onScoreChanged.AddListener(HandleScoreChanged);
 
 		HandleScoreChanged();
 	}
 
 	private void OnDestroy()
 	{
-		GameStateManager.instance.onScoreChanged.RemoveListener(HandleScoreChanged);
+		//GameStateManager.instance.onScoreChanged.RemoveListener(HandleScoreChanged);
 	}
 	
 	private void Update() 
