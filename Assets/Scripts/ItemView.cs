@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class ItemView : MonoBehaviour 
@@ -11,6 +10,7 @@ public class ItemView : MonoBehaviour
 		FLYING_TO_RECYCLE
 	}
 
+	[HideInInspector]
 	public ItemSpawner.ItemType itemType;
 
 	private SpriteRenderer sprite;
