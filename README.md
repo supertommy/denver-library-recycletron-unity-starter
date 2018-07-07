@@ -1,4 +1,7 @@
-# _Recycletron_ Starter Project for Denver Library Game Development in Unity Bootcamp
+# _Recycletron_ Starter Project 
+**For Denver Library Game Development in Unity Bootcamp**
+
+***
 
 We will look at building a simple 2D game with the Unity game engine in this course. Knowledge of Unity is not required or assumed.
 
