@@ -54,16 +54,12 @@
      <Compile Include="Assets\Scripts\CRSpline.cs" />
      <Compile Include="Assets\Scripts\DontDestroyOnLoadComponent.cs" />
      <Compile Include="Assets\Scripts\FlyToRecycleBinComponent.cs" />
-     <Compile Include="Assets\Scripts\GameControllerComponent.cs" />
-     <Compile Include="Assets\Scripts\GameOverController.cs" />
      <Compile Include="Assets\Scripts\GamePauseButton.cs" />
-     <Compile Include="Assets\Scripts\GamePauseCanvas.cs" />
      <Compile Include="Assets\Scripts\GameStateManager.cs" />
      <Compile Include="Assets\Scripts\ItemSelector.cs" />
      <Compile Include="Assets\Scripts\ItemSpawner.cs" />
      <Compile Include="Assets\Scripts\ItemView.cs" />
      <Compile Include="Assets\Scripts\LivesDisplayComponent.cs" />
-     <Compile Include="Assets\Scripts\LoadTitleScreenButton-template.cs" />
      <Compile Include="Assets\Scripts\MusicManager.cs" />
      <Compile Include="Assets\Scripts\PlayGameButton.cs" />
      <Compile Include="Assets\Scripts\QuitAppButton.cs" />

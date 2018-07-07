@@ -19,8 +19,6 @@ public class PlayGameButton : MonoBehaviour
 
 	private void HandleClick()
 	{
-		//SfxManager.instance.Play("DM-CGS-45");
-
 		SceneManager.LoadScene("Game");
 	}
 }

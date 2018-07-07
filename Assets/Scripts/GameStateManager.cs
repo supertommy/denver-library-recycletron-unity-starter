@@ -56,42 +56,21 @@ public class GameStateManager : MonoBehaviour
 	public void DecrementLife()
 	{
 		// TODO: implement DecrementLife
-
-		/*
-		--lives;
-
-		if (lives <= 0)
-		{
-			lives = 0;
-		}
-
-		onLoseLife.Invoke();
-		*/
 	}
 
 	public void AddPoints(int points)
 	{
 		// TODO: implement AddPoints
-
-		/*
-		score += points;
-
-		onScoreChanged.Invoke();
-		*/
 	}
 
 	public void SetLives(int newLives)
 	{
 		// TODO: implement SetLives
-
-		//lives = newLives;
 	}
 
 	public void SetScore(int newScore)
 	{
 		// TODO: implement SetScore
-
-		//score = newScore;
 	}
 
 }

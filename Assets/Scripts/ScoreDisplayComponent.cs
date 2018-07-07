@@ -8,7 +8,6 @@ public class ScoreDisplayComponent : MonoBehaviour
 	[SerializeField]
 	private Text scoreLabel;
 	
-	// Use this for initialization
 	private void Start() 
 	{
 		GameStateManager.instance.onScoreChanged.AddListener(HandleScoreChanged);
