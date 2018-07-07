@@ -3,6 +3,10 @@
 
 ***
 
+[See the Wiki for course lessons.](https://github.com/supertommy/denver-library-recycletron-unity-starter/wiki)
+
+***
+
 We will look at building a simple 2D game with the Unity game engine in this course. Knowledge of Unity is not required or assumed.
 
 First, download the starter template project from Github: https://github.com/supertommy/denver-library-recycletron-unity-starter
@@ -101,5 +105,5 @@ The first thing we will do is to reset the Unity editor layout to "Default" so t
 
 Then we will set the Aspect Ratio to 16:9. Select the Game panel and find the drop down that says "Free Aspect". Click it and select "16:9". We are going to design this game for standard widescreen resolutions for simplicity.
 
-Next we will start by connecting the Titlescreen Scene to the Game Scene so that we can press "Play" and jump into the Game Scene.
+[Next we will start by connecting the Titlescreen Scene to the Game Scene so that we can press "Play" and jump into the Game Scene](https://github.com/supertommy/denver-library-recycletron-unity-starter/wiki/1.-Building-a-Titlescreen)
 
